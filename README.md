@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Yigithan
 
-<!--
-**yigithanjs/yigithanjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small web products, chess tools, and whatever random idea refuses to leave my brain.
 
-Here are some ideas to get you started:
+## 🚀🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Chessbae](https://chessbae.com/dashboard) — decision training from master games
+- [ChessFast](https://www.chessfast.org/daily) — daily chess candy
+- [Pomoyo](https://www.pomoyo.app/) — focus and flow pomodoro timer
+- [KKTC Ehliyet](https://kktcehliyet.vercel.app/) — driving exam practice for Northern Cyprus
+- [Coorduck](https://coorduck.netlify.app/) — chess coordinate trainer
+- [Visualize](https://visualize-c442.vercel.app/) — chess visualization challenge
+- [BAI](https://bai-ebon.vercel.app/) — b.ai webgpu bonsai
+- [Chess XOX](https://chessxox.vercel.app/) — chess-xox game
+- [Rock Paper Scissors Lizard Spock](https://yigithanjs.github.io/rock-paper-scissors-lizard-spock/) — Frontend Mentor challenge
+- [Typing Speed Test](https://typingspeedtest-steel.vercel.app/) — typing speed test app Frontend Mentor Challenge
+
+## Elsewhere
+
+[Frontend Mentor](https://www.frontendmentor.io/profile/yigithanjs)
+
+## Toolbox
+
+React, Next.js, Tailwind CSS, JavaScript, Supabase, SQL, Git, GitHub
