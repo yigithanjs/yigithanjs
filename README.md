@@ -1,6 +1,6 @@
 # Hey, I'm Yigithan
 
-I build small web products, chess tools, and whatever random idea refuses to leave my brain.
+I build small web products, chess tools, and whatever random idea comes to my mind.
 
 ## 🚀🚀
 
