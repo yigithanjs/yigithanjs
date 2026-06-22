@@ -4,7 +4,7 @@ I build small web products, chess tools, and whatever random idea comes to my mi
 
 ## 🚀🚀
 
-- [Chessbae](https://chessbae.com/dashboard) — decision training from master games
+- [Yourline](https://www.yourline.app/) — decision training from master games
 - [ChessFast](https://www.chessfast.org/daily) — daily chess candy
 - [Pomoyo](https://www.pomoyo.app/) — focus and flow pomodoro timer
 - [KKTC Ehliyet](https://kktcehliyet.vercel.app/) — driving exam practice for Northern Cyprus
