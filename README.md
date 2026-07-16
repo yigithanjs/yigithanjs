@@ -1,6 +1,6 @@
 # Hey, I'm Yigithan
 
-I build small web products, chess tools, and whatever random idea comes to my mind.
+Internet, Web, Chess 
 
 ## 🚀🚀
 
@@ -19,6 +19,6 @@ I build small web products, chess tools, and whatever random idea comes to my mi
 
 [Frontend Mentor](https://www.frontendmentor.io/profile/yigithanjs)
 
-## Toolbox
+## Tech Stack
 
 React, Next.js, Tailwind CSS, JavaScript, Supabase, SQL, Git, GitHub
