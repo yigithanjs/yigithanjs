@@ -12,8 +12,8 @@ Currently exploring full-stack development, backend systems, networking, and wha
 
 * **[Yourline](https://www.yourline.app/)** — Train your decision-making with positions from master games.
 * **[ChessFast](https://www.chessfast.org/daily)** — A small daily dose of chess.
-* **[Coorduck](https://coorduck.netlify.app/)** — Train chessboard coordinates until they become automatic.
-* **[Visualize](https://visualize-c442.vercel.app/)** — Chess visualization challenges without moving the pieces.
+* **[Coorduck](https://coorduck.netlify.app/)** — Train chessboard coordinates 
+* **[Visualize](https://visualize-c442.vercel.app/)** — Chess visualization challenges
 * **[Chess XOX](https://chessxox.vercel.app/)** — Chess meets tic-tac-toe.
 
 ### 🌐 Web & Experiments
